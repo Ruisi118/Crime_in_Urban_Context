@@ -82,7 +82,7 @@ This research innovatively compares two different crime rate standardization met
    - Area-standardized results support environmental and opportunity theories
    - Population-standardized results emphasize social disorganization theory
 
-## Policy Implications
+## Strategy Implications
 
 ### Differentiated Prevention Strategies
 - **Property Crime Prevention**: Enhance monitoring and patrol in high subway coverage and high ridership areas
@@ -98,6 +98,16 @@ This research innovatively compares two different crime rate standardization met
 - `Crime_Density(Area_normalized)/`: Files related to area-standardized analysis
 - `Crime_Rate(Population_normalized)/`: Files related to population-standardized analysis
 - `README.md`: Project overview and documentation
+
+## My Contributions
+As a key researcher on this project, my responsibilities included:
+
+- Data preprocessing and exploratory data analysis (EDA)
+- Machine learning model design and implementation
+- Model training, evaluation, and result interpretation
+- Feature importance analysis using Random Forest and SHAP
+  
+My work focused on developing a complementary modeling approach that combined Random Forest for capturing non-linear correlations and variable importance with Gaussian Process models for spatial correlation and uncertainty quantification. I also conducted a comprehensive exploratory data analysis to identify key patterns and relationships in the data before modeling.
 
 ## References
 
