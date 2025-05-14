@@ -11,6 +11,7 @@ Crime in urban areas is not randomly distributed, with patterns influenced by va
 - **Crime Opportunity Theory**: Analyzes how environmental features structure criminal opportunities
 - **Social Disorganization Theory**: Examines how socioeconomic conditions influence crime rates
 
+![NYC_Crime_Map](output/nyc_crime_map.png)
 
 ## Research Question
 
