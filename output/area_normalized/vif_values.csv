@@ -1,0 +1,23 @@
+Variable,VIF
+Intercept,16.592099464718437
+station_density,3.1145178278999386
+station_coverage,2.40957253548312
+avg_ridership,3.3563922142281597
+transfer_station_ratio,1.7035535659070304
+avg_entrances,4.18817266960189
+poi_density_Residential,1.2443795653909595
+poi_density_Education Facility,1.24575971102838
+poi_density_Cultural Facility,1.4306685089185112
+poi_density_Recreational Facility,1.1048884595213215
+poi_density_Social Services,1.330756482722225
+poi_density_Transportation Facility,1.0497509235985496
+poi_density_Commercial,1.6642688942176802
+poi_density_Government Facility,1.0626716871789057
+poi_density_Religious Institution,1.2242547943160924
+poi_density_Health Services,1.0349090326900285
+poi_density_Public Safety,1.066897968715349
+road_density,1.1147510776793519
+neighboring_crime_density,2.372554328042856
+population_density,1.7042548479158977
+youth_population_pct,1.1724932664676515
+income_level,1.2356007690162616

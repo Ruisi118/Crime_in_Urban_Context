@@ -1,0 +1,4 @@
+                    Model          MSE       RMSE        R²  Cross-validation R²
+0     Total Crime Density  2998.315370  54.756875  0.485754             0.498621
+1  Property Crime Density  2899.763239  53.849450  0.443632             0.461390
+2   Violent Crime Density    39.280717   6.267433  0.499600             0.607852
